@@ -9,12 +9,12 @@
 - CSS
 ## Preview
 ### Homepage
-![image]()
+![image](https://github.com/nasif-mahmood/TODO-App-Flask/blob/master/images/image1.png)
 ### Homepage after a task is added
-![image]()
+![image](https://github.com/nasif-mahmood/TODO-App-Flask/blob/master/images/image2.png)
 ### Update Task page
-![image]()
+![image](https://github.com/nasif-mahmood/TODO-App-Flask/blob/master/images/image3.png)
 ### Updated Task in Homepage
-![image]()
+![image](https://github.com/nasif-mahmood/TODO-App-Flask/blob/master/images/image4.png)
 ### Example with more than one task
-![image]()
+![image](https://github.com/nasif-mahmood/TODO-App-Flask/blob/master/images/image5.png)
